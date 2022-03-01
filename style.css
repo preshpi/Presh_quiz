@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Open Sans;
+    background-color: rgb(206, 204, 204);
+}
+
+.p-text{
+    font-family: 'Cookie', cursive;
+
+}
+
+
+
+
+.box{
+     display: none;
+     width:70%;
+     height: 300px;
+     margin:auto;
+     font-family: 'Poppins', sans-serif;
+     padding: 0 25px 40px 10px;
+     background-color: #d84540;
+     border:4px solid #000;
+     border-radius:10px 10px 10px 10px;
+     color: #FFFFFF;
+     box-shadow: 5px 5px 5px #888;
+}
+
+
+button {
+    margin-top: 10px; 
+    float: right;
+} 
